@@ -1,0 +1,140 @@
+html{
+    scroll-behavior: smooth;
+}
+::-webkit-scrollbar {
+    width: 10px;
+}::-webkit-scrollbar-track {
+    background:#BD0CBD;
+}
+::-webkit-scrollbar-thumb {
+    background: #888;
+} 
+.navbar-custom {
+    background-color:#BD0CBD ;
+}	
+input[type="range"] {
+	width: 550px;
+  }
+.fa {  
+	padding: 20px;  
+    text-align: center;  
+	margin: 5px 2px;  
+	font-size: 100px;  
+	width: 100px;  
+  }
+  .fa-facebook {  
+	background: #3B5998;  
+	color: white;  
+  }
+  .fa-linkedin {  
+	background: #007bb5;  
+	color: white;  
+  }  
+  .fa-instagram {  
+	background: rgba(221, 13, 134, 0.918);  
+	color: white;  
+  }  
+  .fa-youtube {  
+	background: #bb0000;  
+	color: white;  
+  } 
+  .fa-whatsapp {  
+	background: rgb(65, 235, 93);  
+	color: white;  
+  } 
+  .fa-github {  
+	background: rgb(85, 81, 81);  
+	color: white;  
+  } 
+  .fa-skype {  
+	background: rgb(17, 140, 189);  
+	color: white;  
+  } 
+  mark
+  {
+	  background-color: rgb(192, 20, 163);
+  }
+.section1
+{
+	background-color: #972d97;
+	text-align: center;
+	padding-top: 150px;
+	padding-bottom: 7%;
+}
+.range
+{
+	align-items:center;
+	width:500%;
+}
+.section2
+{
+	text-align: center;
+	margin-top:15%;
+	margin-bottom: 5%;
+}
+.my
+{
+	text-align: center;
+	margin-top: 150px;
+}
+.fa
+{
+	padding: 20px;
+	width: 40px;
+	height:50px;
+	text-align:center;
+}	
+.dot {
+  height: 25px;
+  width: 25px;
+  background-color: #bbb;
+  border-radius: 50%;
+  display: inline-block;
+}
+.section3
+{
+	margin-top:5%;
+}
+.i {
+  border-radius: 50%;
+  border: 5px solid #555;
+}
+.container1
+{
+	margin-left:5%;
+}
+.container2
+{
+	text-align: center;
+	margin-top:5%;
+}
+.container3
+{
+	background-color:black;
+}
+.btn:hover
+{
+	color: white;
+}
+
+* {box-sizing:border-box}
+
+.container {
+  width: 100%; 
+  background-color: #ddd; 
+}
+
+.skills {
+  text-align: right; 
+  padding-top: 10px; 
+  padding-bottom: 10px; 
+  color: white;
+}
+
+.c {width: 60%; background-color: #41a528;}
+.java {width: 75%; background-color: #258cc7;} 
+.Advanced {width: 60%; background-color: #f12020;} 
+.Sql {width: 50%; background-color: #1ba35f;} 
+.html {width: 60%; background-color: #808080;} 
+.css {width: 45%; background-color: #ec209e;}
+.bot {width: 80%; background-color: #9e13b9;}
