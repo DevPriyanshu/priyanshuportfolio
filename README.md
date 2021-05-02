@@ -1,1 +1,2 @@
+permalink: /index.html
 # priyanshuportfolio
